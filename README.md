@@ -18,3 +18,4 @@
 
 5. This EDA forms the foundation for deeper statistical analysis and machine learning modeling. It helps identify important customer attributes linked to churn
 
+Link: https://github.com/rohising2045/Exploratory-Data-Analysis/blob/main/EDA.ipynb
